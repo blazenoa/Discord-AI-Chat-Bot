@@ -42,5 +42,6 @@
 ## 👨‍💻 Credits
 
 <p align="center">
-  <b>Bot Code By</b><br><a href="https://www.youtube.com/@BlazeNoa-YT">BlazeNoa</a>
+  <b>Bot Code By:</b><br>
+  <a href="https://www.youtube.com/@BlazeNoa-YT">BlazeNoa</a>
 </p>
