@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/4712/4712027.png" width="80" />
-</p>
-
 <h1 align="center">🤖 AI Chat Bot</h1>
 
 <p align="center">
