@@ -1,0 +1,5 @@
+{
+  "aiChannelId": "1234567890123456789",
+  "systemPrompt": "You are a Friendly and helpful Discord Bot. You will answer the user's questions to the best of your ability.",
+  "manualModel": "openai/gpt-oss-20b"
+}
